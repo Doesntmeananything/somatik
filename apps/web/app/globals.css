@@ -6,6 +6,11 @@ html {
   height: 100%;
 }
 
+body {
+  color: white;
+  background: black;
+}
+
 html,
 body {
   padding: 0;
