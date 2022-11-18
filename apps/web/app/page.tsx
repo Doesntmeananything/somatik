@@ -11,7 +11,7 @@ const Home = () => {
       <main className="overflow-x-hidden">
         <div className="pt-20 pb-32 flex flex-col items-center gap-12 relative">
           <div className="glow-gradient absolute w-[1000px] h-[900px] top-[-500px] opacity-20 rounded-full blur-3xl z-0"></div>
-          <div className="absolute top-0 z-10 w-full h-40 dark:from-black from-white to-transparent bg-gradient-to-b"></div>
+          <div className="absolute top-0 z-10 w-full h-40 from-black to-transparent bg-gradient-to-b"></div>
 
           <div className="z-10 flex flex-col gap-6 items-center px-6">
             <Logo isAnimated className="w-12 h-12" />
